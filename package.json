@@ -1,0 +1,14 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Trying node.js",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Ricci",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
